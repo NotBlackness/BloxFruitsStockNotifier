@@ -4,7 +4,6 @@ const axios = require('axios');
 const express = require('express');
 const fs = require('fs');
 const { readFileSync } = require('fs');
-const { readFileSync } = require('fs');
 // Express listener on the port (ensure this matches your server setup)
 const app = express();
 
